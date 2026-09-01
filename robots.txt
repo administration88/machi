@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://administration88.github.io/machi/sitemap.xml
